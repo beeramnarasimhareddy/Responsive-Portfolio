@@ -88,7 +88,5 @@ footer{
     background-color:darkgray;
     margin-top: 50px;
     padding: 20px;
-    z-index: -1;
-    position: sticky;
 
 }
