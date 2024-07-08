@@ -1,0 +1,94 @@
+*{
+    color:rgb(188, 228, 28);
+}
+
+.anchor{
+    margin-left: auto;
+}
+.anchor1:hover {
+    color: rgb(40, 214, 40);
+    transform: scale(1.09);
+}
+body {
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+    background-size: cover;
+    height: auto;
+}
+button{
+    color:lightgreen;
+    border: 1px solid lightyellow;
+    border-radius: 7px;
+    margin-left: 150px;
+    margin-top: 25px;
+    width: 180px;
+    height: 50px;
+    cursor: pointer;
+    background-color: blue;
+    
+}
+.container1{
+    position: relative;
+}
+
+button:hover{
+    color: lightblue;
+    font-weight: 900;
+}
+.left-body {
+    padding-left: 100px !important;
+    color: white;
+    padding-top: 40px !important;
+}
+.body-section {
+    padding-top: 100px;
+    text-align: center;
+    height: 50vh;
+}
+.container2{
+    padding-top: 100px;
+}
+.card{
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
+.card-img-top{
+    padding-top: 20px;
+    height: 200px;
+    width: 150px;
+}
+.about-h1{
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+.aboutprojects{
+    margin-top: 50px;
+}
+h5{
+    margin: 50px;
+}
+.container3{
+    margin-top: 50px;
+}
+.contact {
+    text-align: center;
+}
+.contact-info {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+.test-logo {
+    height: 50px;
+}
+.social-icon-img {
+    height: 110px;
+    padding: 20px;
+}
+footer{
+    background-color:darkgray;
+    margin-top: 50px;
+    padding: 20px;
+    z-index: -1;
+    position: sticky;
+
+}
